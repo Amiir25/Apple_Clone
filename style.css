@@ -334,7 +334,7 @@ header p {
     width: 120px;
 }
 
-/*---------------------- Animation section - 1 ----------------------*/
+/*---------------------- Slide section - 1 ----------------------*/
 .animation-1 {
     width: 100vw;
     overflow:hidden;
@@ -346,7 +346,7 @@ header p {
     justify-content: center;
     gap: 20px;
     width: 815%;
-    animation: slide-1 30s infinite;
+    animation: slide-1 40s infinite;
 }
 
 @keyframes slide-1 {
@@ -504,7 +504,7 @@ header p {
     border-radius: 50%;
 }
 
-/*---------------------- Animation section - 2 ----------------------*/
+/*---------------------- Slide section - 2 ----------------------*/
 .animation-2 {
     width: 100vw;
     overflow:hidden;
